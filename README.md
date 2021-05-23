@@ -30,7 +30,21 @@ Site desenvolvido durante os cursos de HTML5 e CSS3 oferecidos pela Alura, duran
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://barbeariaalura-robert.netlify.app/).
+Você pode visualizar o projeto através [desse link](https://barbeariaalura-robert.netlify.app/).
+
+<img src="/readme.img/alura-imagem_1.png" alt="print1"/>
+
+<img src="/readme.img/alura-imagem_2.png" alt="print2"/>
+
+<img src="/readme.img/alura-imagem_3.png" alt="print3"/>
+
+<img src="/readme.img/alura-imagem_4.png" alt="print4"/>
+
+<img src="/readme.img/alura-imagem_5.png" alt="print5"/>
+
+<img src="/readme.img/alura-imagem_6.png" alt="print6"/>
+
+
 
 ## :memo: Licença
 
